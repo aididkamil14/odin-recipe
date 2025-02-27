@@ -1,0 +1,13 @@
+* {
+    background: #FAF9F6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    padding-left: 50px;
+    padding-right: 100px;
+}
+
+.button{
+font-weight: bold;
+}
